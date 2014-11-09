@@ -1,4 +1,4 @@
-Bootstrap-3-Tutorial-11---Dropdowns
+Bootstrap 3 Tutorial 11 - Dropdowns
 ===================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/WSCd9h2uMdU
